@@ -33,7 +33,7 @@ content:`<p>
       title:'Article three|Gaurav kumar',
 heading:Article-one,
 date:'march 6,2018',
-content:`<p>
+content:`<p> 
                 This is my contentThis is my contentThis is my contentThis is my contentThis is my contentThis is my contentThis is my contentThis is my contentThis is my contentThis is my contentThis is my contentThis is my contentThis is my contentThis is my contentThis is my contentThis is my contentThis is my contentThis is my contentThis is my contentThis is my contentThis is my content
             </p>
             `
